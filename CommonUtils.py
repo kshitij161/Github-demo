@@ -145,24 +145,7 @@ class commonutils:
 
     def explode_column(self,df, column_name):
         """
-        Function to
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-         explode a column in the DataFrame.
+        Function to explode a column in the DataFrame.
         Parameters:
         df (DataFrame): The input DataFrame.
         column_name (str): The name of the column to explode.
